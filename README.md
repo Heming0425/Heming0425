@@ -1,7 +1,9 @@
 
-Education Experience
-2022 - present Renmin University of China
-2016 - 2020 Renmin University of China
+**Education Experience**
+-------------------------------------------------------------------------------------
+Renmin University of China | Graduate Student *2022 - present* 
+*Epidemiology and Health Statistics*
+
 
 Project Overview
 
