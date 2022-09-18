@@ -16,5 +16,5 @@
   <b><i>Work</i></b> </br>
   -------------------------------------------------------------</br>
   Institute of Scientific and Technical Information of China [Beijing] <i>2019 - 2020</i></br>
-  Analyst, responsible for data cleaning, modeling and analysis of scientific literature
+  Data Analyst, responsible for data cleaning, modeling and analysis of scientific literature
 </samp>
