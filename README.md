@@ -2,7 +2,7 @@
   <b><i>Education</i></b> </br>
   -------------------------------------------------------------</br>
   Renmin University of China | Master | 2022 - Present </br>
-  School of Statistics [<i>Epidemiology and Health Statistics</i>] </br>
+  School of Statistics [<i>Health Statistics</i>] </br>
   Renmin University of China | Bachelor (Double Degree) | 2016 - 2020 </br>
   School of Statistics [<i>Applied Statistics</i>] </br>
   School of Information and Resource Management [<i>Information Resource Management</i>] </br>
