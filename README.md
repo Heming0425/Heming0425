@@ -11,7 +11,7 @@
 
   <b><i>Publication</i></b> </br>
   -------------------------------------------------------------</br>
-  Gao S, Deng H, Wen S, Wang Y. Effects of accelerated biological age on depressive symptoms in a causal reasoning framework. J Affect Disord. 2023 Oct 15;339:732-741. doi: 10.1016/j.jad.2023.07.019. Epub 2023 Jul 11. PMID: 37442448.
+  Gao S, Deng H, Wen S, Wang Y. Effects of accelerated biological age on depressive symptoms in a causal reasoning framework. J Affect Disord. 2023 Oct 15;339:732-741. doi: 10.1016/j.jad.2023.07.019. Epub 2023 Jul 11. PMID: 37442448. <a href="https://www.sciencedirect.com/science/article/pii/S0165032723008558">Link</a>
   </br>
   
   <b><i>Software</i></b> </br>
