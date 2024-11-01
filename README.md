@@ -2,11 +2,24 @@
   <b><i>Education</i></b> </br>
   -------------------------------------------------------------</br>
   <b>Renmin University of China | Master | 2022 - 2025 </b></br>
-  School of Statistics [<i>Epidemiology and Biostatistics</i>] </br>
+  <b>School of Statistics</b> <i>Epidemiology and Biostatistics</i> </br>
+  Awards: National Scholarship (2024), Guotai Junan Scholarship (2023) </br>
   <i>Research Interests: Statistical Modeling, Model Selection, Causal Inference</i> </br>
   <b>Renmin University of China | Bachelor (Double Degree) | 2016 - 2020 </b></br>
-  School of Statistics [<i>Applied Statistics</i>] </br>
-  School of Information and Resource Management [<i>Information Resource Management</i>] </br>
+  <b>School of Statistics</b> <i>Applied Statistics</i> </br>
+  <b>School of Information and Resource Management</b> <i>Information Resource Management</i> </br>
+  </br>
+
+  <b><i>Internship</i></b> </br>
+  -------------------------------------------------------------</br>
+  <b>Tencent | Data Science | 2024.6 - 2024.9 </b></br>
+  Responsible for the growth of authors/content on the video account platform, and the design of platform satisfaction surveys.
+  </br>
+  <b>ByteDance | Data Science | 2024.3 - 2024.6 </b></br>
+  Responsible for the optimization of international e-commerce recommendation systems, inventory regulation, and traffic allocation.
+  </br>
+  <b>ByteDance | Data Science | 2023.11 - 2024.3 </b></br>
+  Responsible for the platform content security of TikTok, including the design of a risk indicator system, optimization of risk recall strategies, and enhancing platform trust.
   </br>
 
   <b><i>Publication</i></b> </br>
